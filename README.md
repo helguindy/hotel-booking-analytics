@@ -26,15 +26,6 @@
 6. When creating the dataset, name it exactly **`HotelDataset`** (important for consistency).  
 7. Click **Create** to upload the dataset.  
 8. Once uploaded, it will appear in the **Data** section on the right.  
-9. Load the data in your notebook using:
-
-   ```python
-   import pandas as pd
-
-   hotels = pd.read_csv("/kaggle/input/hoteldataset/hotels.csv")
-   reviews = pd.read_csv("/kaggle/input/hoteldataset/reviews.csv")
-   users = pd.read_csv("/kaggle/input/hoteldataset/users.csv")
-
 
 ---
 
