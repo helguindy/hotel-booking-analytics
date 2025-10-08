@@ -150,6 +150,8 @@
 * XAI tools like **SHAP** and **LIME** show you how important each feature is for the prediction.
 * ✅ **It helps you understand the model’s “thinking” instead of it being a black box.**
 
+---
+
 ## 6️⃣ Inference Function
 
 * This is a function that takes new input data (like a new user’s age, gender, traveler type, review scores) and tells you the predicted country group.
