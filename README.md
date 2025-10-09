@@ -2,7 +2,7 @@
 
 1. Go to **Kaggle → Code → New Notebook → File → Link to GitHub**.  
 2. On Kaggle, click **File → Import Notebook**.  
-3. Choose **GitHub** and search for `HLGindy`.  
+3. Choose **GitHub** and search for `helguindy`.  
 4. Open the repo **hotel-booking-analytics**.  
 5. Go to the `notebooks/` folder and select your own notebook.  
 6. Work only inside your notebook.  
