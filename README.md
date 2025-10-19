@@ -57,8 +57,7 @@
   
 6.  **Merge datasets**
 
-7.  **Add new columns if needed**
-    * `age_group` (e.g., 18–25, 26–35, 36–50, 50+).
+7.  **Add new columns**
     * `country_group` (map user countries to groups, e.g., USA → North_America).
 8.  **Save cleaned dataset**
     ```python
@@ -79,7 +78,6 @@
     * Create a bar chart or table showing results.
       
 2.  **Q2: Top 3 countries by value-for-money per age group**
-    * *Ensure `age_group` column exists.*
     * Group by `age_group` and `country`.
     * Calculate average `score_value_for_money`.
     * Sort and pick top 3 countries per age group.
